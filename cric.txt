@@ -1,0 +1,36 @@
+
+Match's date: Sat Nov 12 16:05:06 2022
+
+Visitor team name: mi
+Host team name: rcb
+mi's team batted in 1st inning
+rcb's team batted in 2nd inning
+The number of over played 1
+
+		mi's SCORE: 23	Extra: 1
+	1  rohit     : 10 Runs  3  Balls  OUT
+	2  isan kishan: 0  Runs  0  Balls  NOT-OUT  *Non Strike
+	3  surya     : 12 Runs  3  Balls  NOT-OUT  *Strike
+	4  brevis    : 0  Runs  0  Balls  NOT-OUT
+	5  david     : 0  Runs  0  Balls  NOT-OUT
+	6  pollard   : 0  Runs  0  Balls  NOT-OUT
+	7  bumrH     : 0  Runs  0  Balls  NOT-OUT
+	8  tilak     : 0  Runs  0  Balls  NOT-OUT
+	9  ashkin    : 0  Runs  0  Balls  NOT-OUT
+	10 archer    : 0  Runs  0  Balls  NOT-OUT
+	11 unadkat   : 0  Runs  0  Balls  NOT-OUT
+
+		rcb's SCORE: 21	Extra: 0
+	1  duplesis  : 7  Runs  2  Balls  NOT-OUT  *Non Strike
+	2  virat     : 14 Runs  4  Balls  NOT-OUT  *Strike
+	3  auj       : 0  Runs  0  Balls  NOT-OUT
+	4  maxi      : 0  Runs  0  Balls  NOT-OUT
+	5  kartiik   : 0  Runs  0  Balls  NOT-OUT
+	6  sahbaz    : 0  Runs  0  Balls  NOT-OUT
+	7  hasaranga : 0  Runs  0  Balls  NOT-OUT
+	8  siraj     : 0  Runs  0  Balls  NOT-OUT
+	9  harshal   : 0  Runs  0  Balls  NOT-OUT
+	10 hazlewood : 0  Runs  0  Balls  NOT-OUT
+	11 patidar   : 2  Runs  0  Balls  NOT-OUT
+
+ mi won the match by 2 runs
